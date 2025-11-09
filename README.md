@@ -44,6 +44,4 @@ E-commerce Sales Dashboard (Power BI End-to-End Project)
 ---
 
 ## 📊 Финальный дашборд
-
-*Здесь ты вставляешь свой скриншот. В GitHub Markdown это делается так:*
-![My Dashboard](images/dashboard_screenshot.png)
+<img width="1940" height="1096" alt="Снимок экрана 2025-11-09 200153" src="https://github.com/user-attachments/assets/628cd089-f1f4-4db6-9652-0095538caecd" />
